@@ -23,7 +23,7 @@ public class DataTypeDemo {
 		System.out.println("bn1 || bn2:" + (bn1 || bn2));
 		System.out.println("!bn1:" + !bn1);
 		System.out.println("(1<2) && (3<5):" + ((1<2) && (3<5)));
-		System.out.println("(1<2) || (3>5):" + ((1<2) || (3>5)));
+		System.out.println("(1<2) || (3>5):" + ((1<2)));
 		//三目运算符
 		int i = 5,j = 6;
 		String result = i > j ? "i>j" : "i<j";

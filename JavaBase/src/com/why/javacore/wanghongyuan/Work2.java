@@ -1,12 +1,11 @@
 package com.why.javacore.wanghongyuan;
 import java.util.Scanner;
 public class Work2 {
-
+public static Scanner input;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //会员购物时，根据积分的不同享受不同的折扣
 		//计算会员购物时获得的折扣
-		Scanner input = new Scanner(System.in);
+		input = new Scanner(System.in);
 		
 		System.out.println("请输入一个数：");
 		

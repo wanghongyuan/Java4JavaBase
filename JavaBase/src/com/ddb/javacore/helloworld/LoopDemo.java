@@ -1,9 +1,9 @@
 package com.ddb.javacore.helloworld;
 import java.util.Scanner;
 public class LoopDemo {
-
+public static Scanner input;
 	public static void main(String[] args) {
-	Scanner input = new Scanner(System.in);
+	input = new Scanner(System.in);
 	System.out.println("请输入一个数");
 int num = input.nextInt();
 //for loop
