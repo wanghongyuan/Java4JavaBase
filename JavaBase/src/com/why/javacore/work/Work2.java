@@ -1,4 +1,4 @@
-package com.why.javacore.wanghongyuan;
+package com.why.javacore.work;
 import java.util.Scanner;
 public class Work2 {
 public static Scanner input;

@@ -1,4 +1,4 @@
-package com.why.javacore.wanghongyuan;
+package com.why.javacore.work;
 
 public class Work3 {
 

@@ -9,8 +9,10 @@ public class ScoreCalc {
 	double avg=sum/3;	
 	public void show(){
 		
-		System.out.println("请输入Java成绩："+Java+"\n请输入C成绩："+C+"\n请输入DB成绩："+DB);
-		System.out.println("总成绩是："+sum+"\n平均成绩是："+avg);
+		System.out.println("请输入Java成绩："+Java+"\n请输入C成绩："+C+
+				"\n请输入DB成绩："+DB+"总成绩是："+sum+
+				"\n平均成绩是："+avg);
+
 	}
 	
 	
